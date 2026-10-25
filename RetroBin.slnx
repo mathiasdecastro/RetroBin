@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/RetroBin.App/RetroBin.App.csproj" />
     <Project Path="src/RetroBin.Core/RetroBin.Core.csproj" />
@@ -6,5 +9,9 @@
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/RetroBin.Core.Tests/RetroBin.Core.Tests.csproj" />
+    <Project Path="tests/RetroBin.Infrastructure.Tests/RetroBin.Infrastructure.Tests.csproj" />
+  </Folder>
+  <Folder Name="/Éléments de solution/">
+    <File Path="Directory.Build.props" />
   </Folder>
 </Solution>
