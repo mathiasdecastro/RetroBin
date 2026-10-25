@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RetroBin.App/RetroBin.App.csproj" />
+    <Project Path="src/RetroBin.Core/RetroBin.Core.csproj" />
+    <Project Path="src/RetroBin.Infrastructure/RetroBin.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RetroBin.Core.Tests/RetroBin.Core.Tests.csproj" />
+  </Folder>
+</Solution>
